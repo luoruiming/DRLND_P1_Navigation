@@ -36,6 +36,15 @@ My computer runs on Windows 10 (64-bit), so I implemented the Windows version, w
 
 ### Instructions
 
-Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+Follow the instructions in `Navigation.ipynb` to get started with training the agent!  
+
+### References
+
+[jknthn's github]( https://github.com/jknthn/unity-banana-navigation )
+
+[Udacity DRLND DQN]( https://github.com/udacity/deep-reinforcement-learning/tree/master/dqn )
+
+
+
 
 
