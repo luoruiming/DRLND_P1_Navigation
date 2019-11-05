@@ -32,7 +32,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 2. Place the file in the DRLND GitHub repository, in the `p1_navigation/` folder, and unzip (or decompress) the file. 
 
-My computer runs on Windows 10 (64-bit), so I implemented the Windows version, which *file_name* in class UnityEnvironment was set to "Banana_Windows_x86_64/Banana.exe".
+My computer runs on Windows 10 (64-bit), so I implemented the Windows version, which *file_name* in class *UnityEnvironment* was set to "Banana_Windows_x86_64/Banana.exe".
 
 ### Instructions
 
